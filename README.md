@@ -1,4 +1,3 @@
 # catorce-hostias
 
-
-Sigo testeando _Git_ y _Github_
+_Git_ y _Github_
